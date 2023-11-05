@@ -2,9 +2,9 @@
 
 
 ### Intoduction 
-```
-1.  Integrate the humidity sensors with simple neural network algorithm.
-```
+
+Integrate the several humidity sensors with simple neural network algorithm.
+
 
 
 ## AUTHORS
