@@ -1,4 +1,4 @@
-# simple-neural-network-based-watering-machine
+# simple-neural-network-for-watering-machine
 
 
 ## Intoduction 
