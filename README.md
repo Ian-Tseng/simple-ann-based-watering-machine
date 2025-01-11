@@ -3,7 +3,7 @@
 
 ## Intoduction 
 
-Integrate the several humidity sensors with simple neural network algorithm to output value to control machine.
+Integrate several humidity sensors with simple neural network algorithm to output value to control machine.
 
 
 
