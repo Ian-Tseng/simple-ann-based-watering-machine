@@ -1,11 +1,13 @@
-# simple-neural-network-for-watering-machine
+# Simple Neural Network for Watering Machine
 
 
 ## Intoduction 
 
-Integrate several humidity sensors with simple neural network algorithm to output value to control machine.
+This project integrates multiple humidity sensors with a simple neural network algorithm to generate output values that control a watering machine. The goal is to create an adaptive system that responds intelligently to soil moisture levels.
 
 
 
 ## AUTHORS
-[Ian-Tseng](https://github.com/Ian-Tseng/)
+Ian Tseng
+
+
