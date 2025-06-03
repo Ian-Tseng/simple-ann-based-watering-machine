@@ -8,6 +8,5 @@ This project integrates multiple humidity sensors with a simple neural network a
 
 
 ## AUTHORS
-Ian Tseng
-
+[Ian-Tseng](https://github.com/Ian-Tseng/)
 
